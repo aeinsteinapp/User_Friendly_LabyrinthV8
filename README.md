@@ -1,5 +1,7 @@
 # 🔐 Labyrinth Enterprise v8.0 - Zero-Click Edition
 
+![Logo](https://raw.githubusercontent.com/aeinsteinapp/User_Friendly_LabyrinthV8/main/
+
 **Professional Zero Trust Autonomous File Encryption for Windows 11**
 
 > No terminal. No configuration. Just double-click and you're protected.
