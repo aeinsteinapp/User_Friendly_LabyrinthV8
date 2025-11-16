@@ -1,6 +1,6 @@
 # 🔐 Labyrinth Enterprise v8.0 - Zero-Click Edition
 
-![Logo](https://raw.githubusercontent.com/aeinsteinapp/User_Friendly_LabyrinthV8/main/
+![Logo](https://raw.githubusercontent.com/aeinsteinapp/User_Friendly_LabyrinthV8/main/Screenshot_20240822-165951.png)
 
 **Professional Zero Trust Autonomous File Encryption for Windows 11**
 
